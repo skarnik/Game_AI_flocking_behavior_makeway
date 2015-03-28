@@ -1,6 +1,5 @@
 Sushrut Karnik
 CSC484
-skarnik@ncsu.edu
 README
 To be opened in PROCESSING. Tested on OS X Yosemite.
 
