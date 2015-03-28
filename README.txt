@@ -18,3 +18,5 @@ for current 150 boids.
 Click some point to make boidleaders seek it, else it will move randomly.
 
 To clear the breadcrumbs press 'd'.
+
+Here's a video of it in action: https://youtu.be/QPxWpvCizQ4
